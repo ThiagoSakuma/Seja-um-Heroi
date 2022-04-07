@@ -1,0 +1,5 @@
+Alterar o ip dentro de mobile -> src -> pages -> pagamento-> index
+
+Alterar o ip dentro de mobile -> service -> api
+
+id da ong ja cadastrada: b7ed
